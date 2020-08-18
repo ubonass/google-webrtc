@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.webrtc</groupId>
+  <artifactId>google-webrtc</artifactId>
+  <versioning>
+    <release>m79-1.0.0</release>
+    <versions>
+      <version>m79-1.0.0</version>
+    </versions>
+    <lastUpdated>20200818061544</lastUpdated>
+  </versioning>
+</metadata>
